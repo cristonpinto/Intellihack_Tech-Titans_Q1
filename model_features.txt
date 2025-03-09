@@ -1,0 +1,17 @@
+avg_temperature
+humidity
+avg_wind_speed
+cloud_cover
+pressure
+month
+day_of_week
+day_of_year
+avg_temperature_bins
+humidity_bins
+avg_wind_speed_bins
+cloud_cover_bins
+pressure_bins
+season_Fall
+season_Spring
+season_Summer
+season_Winter
